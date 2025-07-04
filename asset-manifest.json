@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cartiq-ecommerce/static/css/main.e6c13ad2.css",
+    "main.js": "/cartiq-ecommerce/static/js/main.a441473d.js",
+    "static/js/453.f33bdfa7.chunk.js": "/cartiq-ecommerce/static/js/453.f33bdfa7.chunk.js",
+    "index.html": "/cartiq-ecommerce/index.html",
+    "main.e6c13ad2.css.map": "/cartiq-ecommerce/static/css/main.e6c13ad2.css.map",
+    "main.a441473d.js.map": "/cartiq-ecommerce/static/js/main.a441473d.js.map",
+    "453.f33bdfa7.chunk.js.map": "/cartiq-ecommerce/static/js/453.f33bdfa7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a441473d.js"
+  ]
+}
