@@ -1,0 +1,9 @@
+/* Login.css */
+.card {
+  border-radius: 10px;
+}
+
+input:focus {
+  box-shadow: none;
+  border-color: #007bff;
+}
